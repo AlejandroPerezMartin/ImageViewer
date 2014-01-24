@@ -3,7 +3,9 @@ ImageViewerREPEATED
 
 He tenido varios problemas al intentar hacer un push que contenía varios commits del otro repositorio 'ImageViewer'.
 
-Así que he decidido crear otroAquí dejo el log por si acaso:
+Así que he decidido crear otro para subir los cambios.
+
+Aun así, aquí dejo el archivo log de github del anterior proyecto que no me permitía hacer un push con los cambios:
 
 d512772af29c5fc9486d79d06e72e21ac5b37c4d 459551987258702e046b63af34b9a20916552595 Alejandro <Alejandro@192.168.1.60> 1390518192 +0000	commit: Removed dimension class and implemented incomplete methods
 459551987258702e046b63af34b9a20916552595 751325f3223ac1f3574ee13feef9f75448460904 Alejandro <Alejandro@192.168.1.60> 1390518551 +0000	commit: Implemented unfinished methods
